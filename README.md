@@ -7,11 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=ChiefAditya&label=Profile%20views&color=0e75b6&style=flat" alt="ChiefAditya" />
 </p>
 
-- 🔭 I’m currently working on **CSIR-CRRI Canteen Management System**
+- 🔭 I’m currently working on **Financial Advisory application**
 - 🌱 I’m currently learning **BackEnd Development, Docker, and GraphQL**
 - 👯 I’m looking to collaborate on **React-based or MERN Stack projects**
-- 🤝 I’m looking for help with **QR Login and Razorpay Integration**
-- 💬 Ask me about **React, Node.js, MongoDB, Three.js**
+- 🤝 I’m looking for help with **Payment method integration**
+- 💬 Ask me about **React, Node.js, MongoDB, Python**
 - 📫 How to reach me: **adityasri0202@gmail.com**
 
 ---
