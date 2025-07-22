@@ -1,20 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastava</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdni.iconscout.com/illustration/premium/thumb/web-developer-8083517-6487673.png" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ChiefAditya/ChiefAditya/main/assets/dev-image.png" alt="developer" width="60%" />
+</p>
+
+---
 
 - 🔭 I’m currently working on **CSIR-CRRI Canteen Management System**
-
 - 🌱 I’m currently learning **Docker, GraphQL & Advanced Backend Techniques**
-
 - 👯 I’m looking to collaborate on **React/MERN-based Projects**
-
 - 🤝 I’m looking for help with **QR Login & Razorpay Integration**
-
 - 💬 Ask me about **MERN Stack, React.js, Node.js, MongoDB**
-
-- 📫 Reach me at: **adityasrivastava.dev@gmail.com**
-
+- 📫 Reach me at: **adityasri0202@gmail.com**
 - ⚡ Fun fact: **I love badminton, cinematography & hackathons 🎯**
 
 ---
@@ -29,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
 </p>
 
 ---
@@ -61,9 +59,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-srivastava-dev" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="30" /></a>
   <a href="https://www.instagram.com/aditya.codes/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" /></a>
-  <a href="mailto:adityasrivastava.dev@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
+  <a href="mailto:adityasri0202@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="30" /></a>
 </p>
 
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=ChiefAditya&color=brightgreen)
+
