@@ -98,6 +98,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChiefAditya&show_icons=true&locale=en" alt="ChiefAditya" />
 </p>
 
-<p>
+<!-- <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChiefAditya&" alt="ChiefAditya" />
-</p>
+</p> -->
